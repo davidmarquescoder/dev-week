@@ -24,5 +24,3 @@
    - Objetivo: Interagir com um banco de dados simples usando Node.js e TypeScript.
    - Descrição: Os alunos devem criar um programa que permita que os usuários cadastrem informações em um banco de dados (por exemplo, SQLite) e, em seguida, recuperem e exibam essas informações.
    - Conceitos-chave: Configuração de um banco de dados local, uso de ORM (Object-Relational Mapping) em TypeScript, manipulação de dados de forma assíncrona.
-
-Esses desafios devem abordar conceitos importantes de Node.js e TypeScript de forma rápida e prática. Eles podem ser adaptados conforme necessário para se adequarem ao nível de habilidade dos alunos e ao tempo disponível.
